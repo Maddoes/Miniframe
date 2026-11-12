@@ -39,7 +39,7 @@ class Book:
     def describe(self):
         print(f"Title: {self.title} \n Author: {self.author} \n Year: {self.year} \n Price: ${self.price} \n")
 
-    def to_dict(self):
+    def to_dict(self) -> dict:
         return {
             "type": self.book,
             "title": self.title,
