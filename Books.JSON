@@ -1,0 +1,18 @@
+[
+  {
+    "type": "Fiction",
+    "title": "Billy Summers",
+    "author": "Stephen King",
+    "year": 2014,
+    "price": 19.99,
+    "theme": "Thriller"
+  },
+  {
+    "type": "Fiction",
+    "title": "The Shining",
+    "author": "Stephen King",
+    "year": 2014,
+    "price": 19.99,
+    "theme": "Thriller"
+  }
+]
